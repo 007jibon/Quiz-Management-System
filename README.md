@@ -199,7 +199,7 @@ SUM:                            99           3606           1044          23773
 ### Steps
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/rahimuj570/quize_management_V1.2.git
+   git clone https://github.com/007jibon/Quiz-Management-System.git
    cd quize_management_V1.2
 ```
 
